@@ -13,6 +13,4 @@
 .externalNativeBuild
 .cxx
 local.properties
-/node-js-getting-started/node_modules
-/node-js-getting-started1/node_modules
-/testServerSocket/node_modules
+/node_modules
